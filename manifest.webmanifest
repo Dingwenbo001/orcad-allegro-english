@@ -1,0 +1,29 @@
+{
+  "name": "OrCAD + Allegro 17.4 英语学习与自测",
+  "short_name": "EDA 英语学习",
+  "description": "OrCAD Capture 与 Allegro PCB Editor 17.4 菜单学习、朗读和自测",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#12243b",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "lang": "zh-CN",
+  "categories": [
+    "education",
+    "productivity"
+  ]
+}
